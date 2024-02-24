@@ -19,7 +19,7 @@ La misión y visión correspondientes deben ir en alineación con las propuestas
 El branding elaborado para los eventos de la IEEE Computer Society de la Universidad Nacional de San Agustín de Arequipa se realiza en Canva, estando siempre adaptado en la medida de 1080px x 1080px
 ### Equipo
 Actualmente el equipo IEEE CS UNSA se conforma de la Directiva General y de los Comités. En el apartado de recurso podrán encontrar las imagenes de las personas de nuestra directiva con una corta descripción. Demás actualizaciones que se realicen deberán ser posibles y adaptativas.
-Enlace a la carpeta: 
+Podrá encontrar el material necesario para esta sección haciendo click [AQUI](/equipo/2024) 
 ## Concurso de Diseño de Página Web 2024
 Las bases para el concurso están en el apartado: 
 
