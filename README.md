@@ -30,3 +30,12 @@ Responsivo: Tu diseño debe ser adaptable y ofrecer una excelente experiencia de
 Herramientas de Desarrollo: Recomendamos el uso de Angular, Vue, Svelte o React para el desarrollo de la página web estática. Esto facilitará su adaptación a la herramienta de hosting que tenemos disponible.
 
 Derechos de Diseño: Los derechos del diseño creado seguirán perteneciendo a los desarrolladores correspondientes. No obstante, el Capítulo Estudiantil de IEEE CS UNSA otorgará reconocimiento a los diseñadores por su contribución. Se solicitará que se brinden detalles básicos del diseño sin comprometer su propiedad intelectual.
+
+Inicio de Convocatoria: Viernes 16 de Febrero
+
+Envío de trabajos (a través del Repositorio Remoto de Acceso Público): Desde el Lunes 4 de Marzo (12:00 pm) hasta el Viernes 8 de Marzo (10:00 am)
+
+Presentación de Participantes y Selección del Jurado: Viernes 8 de Marzo (5:00 pm)
+
+### ¡Es tu oportunidad de destacar en el mundo del diseño y desarrollo web! Participa en el Desafío Web y muestra tus habilidades al mundo. ¡Esperamos con entusiasmo ver tus creaciones!
+
