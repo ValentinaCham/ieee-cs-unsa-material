@@ -1,7 +1,7 @@
 # MATERIAL IEEE CS UNSA
 ![Cover IEEE CS UNSA](recursos-varios/Cover_Facebook.png)
 ## Maquetación de Referencia 🎨
-Maquetación en Figma de referencia: [Enlace Figma](https://github.com/ValentinaCham/ieee-cs-unsa-material)
+Maquetación en Figma de referencia: [Enlace Figma](https://www.figma.com/proto/YiVgScMipwL9e7pcQp7FbJ/MyFirstMockUp?type=design&node-id=1-2&t=jaKTBF17mUbVAVnQ-0&scaling=scale-down-width&page-id=0%3A1)
 
 Esta maquetación ofrece una referencia de como el equipo IEEE CS UNSA se imagina la página 😊 no es obligatorio seguirla pero se solicita las vistas de:
 - Inicio
