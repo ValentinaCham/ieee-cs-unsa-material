@@ -19,7 +19,7 @@ Estudiante de Septimo Ciclo de la Carrera Profesional de Ingeniería de Sistemas
 
 Frank's Javier Vilca Quispe
 
-Estudiante de Septimo Ciclo de la Carrera Profesional de Ingeniería de Sistemas en la Universidad Nacional de San Agustín de Arequipa. Es una estudiante bastante centrado en el campo de Desarrollo Web y de Tecnologías de Despliegue y Servicios en la Nube. Estudainte que se centra actualmente en su capacitación AWS y en demás campos tecnológicos.
+Estudiante de Septimo Ciclo de la Carrera Profesional de Ingeniería de Sistemas en la Universidad Nacional de San Agustín de Arequipa. Es una estudiante bastante centrado en el campo de Desarrollo Web y de Tecnologías de Despliegue y Servicios en la Nube. Estudiante que se centra actualmente en su capacitación AWS y en demás campos tecnológicos.
 ### 📖 **Secretary**
 ![Secretary-AntonyBlanco](Secretary-AntonyBlanco.png)
 
