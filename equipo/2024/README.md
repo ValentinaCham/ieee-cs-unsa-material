@@ -1,0 +1,2 @@
+# EQUIPO 2024
+El presente equipo se encargo el 2024 de poder realizar el envio de la solicitud de apertura tanto a la Rama Estudiantil IEEE UNSA, IEEE Sección Perú y Capitulo Tecnico IEEE Computer Society, logrando la apertura oficial el 13 de Noviembre del 2023.
