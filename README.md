@@ -22,3 +22,11 @@ Actualmente el equipo IEEE CS UNSA se conforma de la Directiva General y de los 
 Enlace a la carpeta: 
 ## Concurso de Diseño de Página Web 2024
 Las bases para el concurso están en el apartado: 
+
+Uso de Contenido Libre de Derechos: Si decides incorporar imágenes o vectorizaciones en tu diseño, asegúrate de utilizar contenido que tenga los derechos correspondientes o que sea libre de derechos.
+
+Responsivo: Tu diseño debe ser adaptable y ofrecer una excelente experiencia de usuario en diferentes dispositivos, desde computadoras de escritorio hasta dispositivos móviles.
+
+Herramientas de Desarrollo: Recomendamos el uso de Angular, Vue, Svelte o React para el desarrollo de la página web estática. Esto facilitará su adaptación a la herramienta de hosting que tenemos disponible.
+
+Derechos de Diseño: Los derechos del diseño creado seguirán perteneciendo a los desarrolladores correspondientes. No obstante, el Capítulo Estudiantil de IEEE CS UNSA otorgará reconocimiento a los diseñadores por su contribución. Se solicitará que se brinden detalles básicos del diseño sin comprometer su propiedad intelectual.
