@@ -29,7 +29,7 @@ Estudiante de Septimo Ciclo de la Carrera Profesional de Ingeniería de Sistemas
 ### 📖 **Web Master**
 ![Webmaster-ChristianMestas](Webmaster-ChristianMestas.jpg)
 
-Christias Raúl Mestas Zegarra
+Christian Raúl Mestas Zegarra
 
 Estudiante de Tercer Ciclo de la Carrera Profesional de Ingeniería de Sistemas en la Universidad Nacional de San Agustín de Arequipa. Es un estudiante con un gran interes por Desarrollo BackEnd en Páginas Web y en Desarrollo de Videojuegos. Actual integrante del Centro de Investigación CiTeSoft de la UNSA.
 ## Comités de Trabajo
