@@ -9,7 +9,7 @@ Valentina Milagros Chambilla Perca
 
 Estudiante de Septimo Ciclo de la Carrera Profesional de Ingeniería de Sistemas en la Universidad Nacional de San Agustín de Arequipa. Es una estudiante entusiasta en el campo de IoT y uso de Tecnologías en la Nube.
 ### 📊 **Vice Chair**
-![ViceChair-RodrigoVeliz](ViceChair-RodrigoVeliz.jpg)
+![ViceChair-RodrigoVeliz](ViceChair-RodrigoVéliz.jpg)
 
 Rodrigo Alejandro Véliz Saihua
 
