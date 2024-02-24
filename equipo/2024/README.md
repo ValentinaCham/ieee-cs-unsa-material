@@ -19,7 +19,7 @@ Estudiante de Septimo Ciclo de la Carrera Profesional de Ingeniería de Sistemas
 
 Frank's Javier Vilca Quispe
 
-Estudiante de Septimo Ciclo de la Carrera Profesional de Ingeniería de Sistemas en la Universidad Nacional de San Agustín de Arequipa. Es una estudiante bastante centrado en el campo de Desarrollo Web y de Tecnologías de Despliegue y Servicios en la Nube. Estudainte que se centra actualmente en su capacitación AWS y en demás campos tecnológicos.
+Estudiante de Septimo Ciclo de la Carrera Profesional de Ingeniería de Sistemas en la Universidad Nacional de San Agustín de Arequipa. Es una estudiante bastante centrado en el campo de Desarrollo Web y de Tecnologías de Despliegue y Servicios en la Nube. Estudiante que se centra actualmente en su capacitación AWS y en demás campos tecnológicos.
 ### 📖 **Secretary**
 ![Secretary-AntonyBlanco](Secretary-AntonyBlanco.png)
 
@@ -35,4 +35,32 @@ Estudiante de Tercer Ciclo de la Carrera Profesional de Ingeniería de Sistemas 
 ## Comités de Trabajo
 
 Actualmente se cuenta con 4 comités, pero aún no se ha designado un encargado general.
-##
+### Comité de Organización de Eventos y Desarrollo Profesional
+![LiderComite](LiderComite.jpg)
+
+Nombre de Lider de Comite
+
+- Planificación y ejecución de eventos como charlas, conferencias y talleres.
+- Facilitación de oportunidades de desarrollo profesional y sesiones de mentoría.
+### Comité de Proyectos y Tecnología
+![LiderComite](LiderComite.jpg)
+
+Nombre de Lider de Comite
+
+- Liderazgo en proyectos tecnológicos y hackatones.
+- Colaboración en actividades prácticas para aplicar habilidades técnicas.
+### Comité de Comunicaciones y Membresía
+![LiderComite](LiderComite.jpg)
+
+Nombre de Lider de Comite
+
+- Gestión de la comunicación interna y externa del capítulo.
+- Administración de redes sociales, sitio web y envío de boletines.
+- Actividades de reclutamiento y orientación para nuevos miembros.
+### Comité de Finanzas y Responsabilidad Social
+![LiderComite](LiderComite.jpg)
+
+Nombre de Lider de Comite
+
+- Gestión del presupuesto del capítulo y búsqueda de patrocinadores.
+- Organización de actividades de responsabilidad social y proyectos de voluntariado.
