@@ -12,7 +12,7 @@ Los colores a utilizar deben seguir la linea de branding del Capitulo Técnico I
 ## Especificación de Vistas
 Para las vistas se tienen en consideración las siguientes especificaciones:
 ### Inicio
-En el inicio se espera una vista introductoria de las demás vistas de la página, con un enlace respectivo a dichas vistas.
+En el inicio se espera una vista introductoria de las demás vistas de la página, con un enlace respectivo a dichas vistas. Los logos los podrá encontrar en la [carpeta logos](/logos).
 ### Misión y Visión
 La misión y visión correspondientes deben ir en alineación con las propuestas por el Capitulo IEEE COmputer Society general. Para redirigirse a la Página Oficial IEEE Computer Society hacer click [AQUÍ](https://www.computer.org/about?source=nav)
 ### Eventos
@@ -20,22 +20,66 @@ El branding elaborado para los eventos de la IEEE Computer Society de la Univers
 ### Equipo
 Actualmente el equipo IEEE CS UNSA se conforma de la Directiva General y de los Comités. En el apartado de recurso podrán encontrar las imagenes de las personas de nuestra directiva con una corta descripción. Demás actualizaciones que se realicen deberán ser posibles y adaptativas.
 Podrá encontrar el material necesario para esta sección haciendo click [AQUI](/equipo/2024) 
+
 ## Concurso de Diseño de Página Web 2024
-Las bases para el concurso están en el apartado: 
+Las bases para el concurso del diseño de la página web del Capitulo Estudiantil IEEE Computer Society de la Rama Estudianitl IEEE de la Universidad Nacional de San Agustín están en el siguiente apartado: 
 
-Uso de Contenido Libre de Derechos: Si decides incorporar imágenes o vectorizaciones en tu diseño, asegúrate de utilizar contenido que tenga los derechos correspondientes o que sea libre de derechos.
+### Reto de Desarrollo Web 🎨💻
 
-Responsivo: Tu diseño debe ser adaptable y ofrecer una excelente experiencia de usuario en diferentes dispositivos, desde computadoras de escritorio hasta dispositivos móviles.
+#### Herramientas
 
-Herramientas de Desarrollo: Recomendamos el uso de Angular, Vue, Svelte o React para el desarrollo de la página web estática. Esto facilitará su adaptación a la herramienta de hosting que tenemos disponible.
+Para el Desarrollo de la página, se deberá hacer uso de
+- [Angular](https://angular.io/)
+- [Vue.js](https://vuejs.org/)
+- [Svelte](https://svelte.dev/)
+- [React](https://react.dev/)
 
-Derechos de Diseño: Los derechos del diseño creado seguirán perteneciendo a los desarrolladores correspondientes. No obstante, el Capítulo Estudiantil de IEEE CS UNSA otorgará reconocimiento a los diseñadores por su contribución. Se solicitará que se brinden detalles básicos del diseño sin comprometer su propiedad intelectual.
+La plataforma seleccionada como ganadora será desplegada por medio de Azure.
 
-Inicio de Convocatoria: Viernes 16 de Febrero
+**ACLARACIÓN**: Los derechos del diseño creado seguirán perteneciendo a los desarrolladores correspondientes. No obstante, el Capítulo Estudiantil de IEEE CS UNSA otorgará reconocimiento a los diseñadores por su contribución. Se solicitará que se brinden detalles básicos del diseño sin comprometer su propiedad intelectual.
 
-Envío de trabajos (a través del Repositorio Remoto de Acceso Público): Desde el Lunes 4 de Marzo (12:00 pm) hasta el Viernes 8 de Marzo (10:00 am)
+#### Criterios a Evaluar
 
-Presentación de Participantes y Selección del Jurado: Viernes 8 de Marzo (5:00 pm)
+**Contenido Libre de Derechos**: Si decides incorporar imágenes o vectorizaciones en tu diseño, asegúrate de utilizar contenido que tenga los derechos correspondientes o que sea libre de derechos. Te podemos recomendar las siguientes páginas:
+- 🧑‍🎨 [Canva](https://www.canva.com/): Podrás hacer diseños de fondos o adaptaciones (Recordando respetar los colores y lineamientos de la IEEE).
+- 🖼️ [Pixabay](https://pixabay.com/): En esta página podrás encontrar imagenes libres de derechos y también encontrar las formas más apropiadas también de dar derechos de autor.
+- 👱 [StorySet](https://storyset.com/): Te permitirá adaptar ilustraciones a tus requerimientos, además que son de uso libre, te permite obtenerlas en formato SVG para desarrollo web y con adaptaciones de color, detalle y formato.
 
-### ¡Es tu oportunidad de destacar en el mundo del diseño y desarrollo web! Participa en el Desafío Web y muestra tus habilidades al mundo. ¡Esperamos con entusiasmo ver tus creaciones!
+**Responsivo**: Tu diseño debe ser adaptable y ofrecer una excelente experiencia de usuario en diferentes dispositivos, desde computadoras de escritorio hasta dispositivos móviles.
 
+**Tematica**: La temática debe mantenerse apegada al objetivo de la Sociedad Técnica IEEE Copmuter Society, teniendo que comprenderse en todas las vistas el concepto.
+
+#### Calendario
+
+Las fechas claves para el concurso serán:
+
+|Fecha|Actividad|
+|---|---|
+|12 de Febrero|Envio del afiche para adelantar Reto Web|
+|25 de Febrero|Liberación de Repositorio Informatico|
+|25 de Marzo|Envio de Formulario para Inscripción de Grupos|
+|5 de Abril|Cierre de Formulario|
+|8 de Abril(Fecha Tentativa)|Reunión Presencial de Presentación de Trabajos y Selección del Ganador|
+
+##### Formulario de Inscripción
+
+Desde el 25 de Marzo hasta el 5 de Abril a medio día (12:00 pm) estará abierto el formulario. La entrega del diseño se debe hacer por medio de un Repositorio de GitHub el cual deberá estar como Público. En el formulario se va a solicitar:
+
+- Datos de los Integrantes del Grupo (Es de 1 hasta 5 integrantes)
+- Enlace de Repositorio GitHub
+- Herramienta Utilizada (Angular, Vue, Svelte, React)
+- Descripción General de las Vistas
+- Consideraciones varias
+
+#### Presentación de Trabajos y Selección
+
+- La presentación será realizada por 1 o 2 de los integrantes del equipo, presentando las Librerías utilizadas, herramientas, y demás.
+- La presentación tendrá una duración máxima de 5 minutos.
+- El orden de presentación será determinado por sorteo 10 minutos antes de la ceremonia donde deberá estar presente un representante de cada equipo.
+- Se va a contar con 3 Jurados los cuales van a hacer la evaluación de los trabajos al final de cada presentación.
+- Los resultados serán dados al finalizar la presentación de todos los trabajos, siendo la premiación en dichos momentos. 
+
+#### Premiación
+
+- El trabajo seleccionado contará con los derechos del diseño, lso detalles de ello se verán previos la despliegue de la Página.
+- Se va a brindar el Certificado a los grupos participantes por su Diseño, de igual forma se va a hacer una presentación de sus trabajos por medio de las redes sociales de la Rama Estudiantil IEEE UNSA y del Capitulo IEEE Computer Society UNSA.
