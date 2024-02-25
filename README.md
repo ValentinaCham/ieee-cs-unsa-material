@@ -1,5 +1,7 @@
 # MATERIAL IEEE CS UNSA
+
 ![Cover IEEE CS UNSA](recursos-varios/Cover_Facebook.png)
+
 ## Maquetación de Referencia 🎨
 Maquetación en Figma de referencia: [Enlace Figma](https://www.figma.com/proto/YiVgScMipwL9e7pcQp7FbJ/MyFirstMockUp?type=design&node-id=5-10&t=kLBBQo4nw9wDfcsb-1&scaling=scale-down-width&page-id=0%3A1&starting-point-node-id=5%3A10&mode=design)
 
@@ -24,11 +26,13 @@ Podrá encontrar el material necesario para esta sección haciendo click [AQUI](
 ## Concurso de Diseño de Página Web 2024
 Las bases para el concurso del diseño de la página web del Capitulo Estudiantil IEEE Computer Society de la Rama Estudianitl IEEE de la Universidad Nacional de San Agustín están en el siguiente apartado: 
 
-### Reto de Desarrollo Web 🎨💻
+### Desafío de Desarrollo Web 🎨💻
+
+El objetivo del Desafío es **Desarrollar una página web orientada a la presentación del Capitulo Estudiantil IEEE Computer Society de la Rama IEEE UNSA de forma general**, siendo esta pagina pública tanto para la Universidad como para todos los demás Capitulos y Ramas del mundo. Además de que se busca dar visibilidad a los estudiantes voluntarios y participes de las Actividades del Capitulo Estudiantil IEEE CS UNSA por medio del reconocimeinto de sus habilidades.
 
 #### Herramientas
 
-Para el Desarrollo de la página, se deberá hacer uso de
+Para el Desarrollo de la página, se deberá hacer uso de:
 - [Angular](https://angular.io/)
 - [Vue.js](https://vuejs.org/)
 - [Svelte](https://svelte.dev/)
