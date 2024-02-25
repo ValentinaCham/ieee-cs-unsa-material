@@ -47,7 +47,7 @@ La plataforma seleccionada como ganadora será desplegada por medio de Azure.
 
 **Responsivo**: Tu diseño debe ser adaptable y ofrecer una excelente experiencia de usuario en diferentes dispositivos, desde computadoras de escritorio hasta dispositivos móviles.
 
-**Tematica**: La temática debe mantenerse apegada al objetivo de la Sociedad Técnica IEEE Copmuter Society, teniendo que comprenderse en todas las vistas el concepto.
+**Tematica**: La temática debe mantenerse apegada al objetivo de la Sociedad Técnica IEEE Computer Society, teniendo que comprenderse en todas las vistas el concepto.
 
 #### Calendario
 
@@ -56,18 +56,20 @@ Las fechas claves para el concurso serán:
 |Fecha|Actividad|
 |---|---|
 |12 de Febrero|Envio del afiche para adelantar Reto Web|
-|25 de Febrero|Liberación de Repositorio Informatico|
+|25 de Febrero|Liberación de Repositorio Informativo|
 |25 de Marzo|Envio de Formulario para Inscripción de Grupos|
 |5 de Abril|Cierre de Formulario|
-|8 de Abril(Fecha Tentativa)|Reunión Presencial de Presentación de Trabajos y Selección del Ganador|
+|8 de Abril (Fecha Tentativa)|Reunión Presencial de Presentación de Trabajos y Selección del Ganador|
 
 ##### Formulario de Inscripción
 
 Desde el 25 de Marzo hasta el 5 de Abril a medio día (12:00 pm) estará abierto el formulario. La entrega del diseño se debe hacer por medio de un Repositorio de GitHub el cual deberá estar como Público. En el formulario se va a solicitar:
 
+- Nombre del Equipo o Desarrollador Individual
 - Datos de los Integrantes del Grupo (Es de 1 hasta 5 integrantes)
 - Enlace de Repositorio GitHub
 - Herramienta Utilizada (Angular, Vue, Svelte, React)
+- Especificaciones Técnicas (Versiones utilizadas y Librerías)
 - Descripción General de las Vistas
 - Consideraciones varias
 
@@ -81,5 +83,5 @@ Desde el 25 de Marzo hasta el 5 de Abril a medio día (12:00 pm) estará abierto
 
 #### Premiación
 
-- El trabajo seleccionado contará con los derechos del diseño, lso detalles de ello se verán previos la despliegue de la Página.
+- El trabajo seleccionado contará con los derechos del diseño, los detalles de ello se verán previos la despliegue de la Página.
 - Se va a brindar el Certificado a los grupos participantes por su Diseño, de igual forma se va a hacer una presentación de sus trabajos por medio de las redes sociales de la Rama Estudiantil IEEE UNSA y del Capitulo IEEE Computer Society UNSA.
