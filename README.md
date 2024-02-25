@@ -16,7 +16,7 @@ En el inicio se espera una vista introductoria de las demás vistas de la págin
 ### Misión y Visión
 La misión y visión correspondientes deben ir en alineación con las propuestas por el Capitulo IEEE COmputer Society general. Para redirigirse a la Página Oficial IEEE Computer Society hacer click [AQUÍ](https://www.computer.org/about?source=nav)
 ### Eventos
-El branding elaborado para los eventos de la IEEE Computer Society de la Universidad Nacional de San Agustín de Arequipa se realiza en Canva, estando siempre adaptado en la medida de 1080px x 1080px
+El branding elaborado para los eventos de la IEEE Computer Society de la Universidad Nacional de San Agustín de Arequipa se realiza en Canva, estando siempre adaptado en la medida de 1080px x 1080px. Puede relizarlo haciendo uso de la vista de galería. El material para colocar en esta vista podrá encontrarlo en la [carpeta eventos](/eventos).
 ### Equipo
 Actualmente el equipo IEEE CS UNSA se conforma de la Directiva General y de los Comités. En el apartado de recurso podrán encontrar las imagenes de las personas de nuestra directiva con una corta descripción. Demás actualizaciones que se realicen deberán ser posibles y adaptativas.
 Podrá encontrar el material necesario para esta sección haciendo click [AQUI](/equipo/2024) 
