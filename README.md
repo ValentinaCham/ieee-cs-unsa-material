@@ -10,6 +10,7 @@ Esta maquetación ofrece una referencia de como el equipo IEEE CS UNSA se imagin
 - Misión y Visión
 - Eventos
 - Equipo
+
 Los colores a utilizar deben seguir la linea de branding del Capitulo Técnico IEEE Computer Society: [IEEE Computer Society Brand Identity & Graphic Style Guide](https://www.computer.org/about/ieee-computer-society-brand-guide)
 ## Especificación de Vistas
 Para las vistas se tienen en consideración las siguientes especificaciones:
