@@ -85,3 +85,7 @@ Desde el 25 de Marzo hasta el 5 de Abril a medio día (12:00 pm) estará abierto
 
 - El trabajo seleccionado contará con los derechos del diseño, los detalles de ello se verán previos la despliegue de la Página.
 - Se va a brindar el Certificado a los grupos participantes por su Diseño, de igual forma se va a hacer una presentación de sus trabajos por medio de las redes sociales de la Rama Estudiantil IEEE UNSA y del Capitulo IEEE Computer Society UNSA.
+
+#### Consultas
+
+Toda consulta acerca del Desafío Desarrollo Web 2024 IEEE CS UNSA podrá ser hecho por medio del correo chapter.ieee.epis@unsa.edu.pe o por medio de Whatsapp al número 994422549.
